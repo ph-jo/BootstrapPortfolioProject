@@ -12,6 +12,7 @@
 .carousel {
   height: 240px;
   margin-bottom: 30px;
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -47,6 +48,7 @@
 
 .marketing {
   margin: 60px auto;
+
 }
 
 .marketing .col-md-4 {
@@ -61,6 +63,8 @@
   padding: 40px;
   color: #444;
 }
+
+
 
 
 /* STICKY FOOTER
